@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ved-2004
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning DSA, I have completed C and C++
+-
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

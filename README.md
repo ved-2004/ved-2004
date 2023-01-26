@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ved-2004
-- 👀 I’m interested in learning new things and coding!!!
-- I'm currently learning Android App Dev using Java. Proficient in C, C++, Java, Advance Java and Web Development using MERN Stack.
-- 💞️ I’m looking to collaborate on software application development. 
+- 👀 My name is Ved Chadderwala. I'm a sophomore in CSE at NIT Surat, Gujarat, India.
+- 💻 I'm looking forward to contribute in software development projects.
 - 📫 You can reach out to me on my LinkedIN profile:- https://www.linkedin.com/in/ved-chadderwala-196529223/
 
 <!---

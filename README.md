@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ved-2004
-- 👀 My name is Ved Chadderwala. I'm a pre-final in CSE at NIT Surat, Gujarat, India.
+- 👀 My name is Ved Chadderwala. I'm a final-year CSE student at NIT Surat, Gujarat, India.
 - 💻 I'm looking forward to contributing to software development projects.
 - 📫 You can reach out to me on my LinkedIn profile:- https://www.linkedin.com/in/ved-chadderwala-196529223/
 

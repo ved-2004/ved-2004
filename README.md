@@ -1,16 +1,91 @@
-# Hi there, I'm Ved Chadderwala 👋
+# Ved Chadderwala
 
-### 🚀 MS Computer Science Student | AI/ML & Software Engineer
+Building systems that replace manual work with intelligence.
 
-I'm a first-year Master's student at the **University of Southern California (USC)**. My focus lies at the intersection of **Deep Learning, Natural Language Processing (NLP)**, and building **scalable, reliable backend systems**.
+MS CS @ USC  
+Previously @ Google, Zanskar  
 
-### 🌐 Currently Focusing On
+---
 
-* Developing frameworks to mitigate bias in NLP systems.
-* Exploring Video-Language Models (VLMs) and YOLO for real-time multimodal object detection.
+## What I’m doing
 
-### 🔗 Connect With Me
+Most ML work today is bottlenecked not by models, but by systems around them.
 
-* [**LinkedIn**](https://www.linkedin.com/in/ved-chadderwala-196529223/)
-* [**Portfolio**](https://vedchadderwala.vercel.app/)
+I’m focused on:
+- turning research into **usable infrastructure**
+- reducing **human-in-the-loop workflows** to near zero
+- building **AI systems that operate, not just predict**
 
+---
+
+## Selected builds
+
+### Autonomous SRE Agent
+End-to-end incident response system for microservices
+
+- Logs + metrics + traces → **root cause → remediation plan**
+- Builds dependency graphs + runs RAG over codebase
+- Compresses ~45 min debugging loop into <1 min
+
+---
+
+### RunPaper
+Upload a research paper → get runnable code
+
+- Parses papers → extracts methods → generates PyTorch repos
+- Handles missing details with structured reasoning + retrieval
+- Used by early users to cut reproduction time from hours to minutes
+
+---
+
+### Reliable LLM Inference (Routing + Reflection)
+Deciding when models should **trust themselves vs ask for help**
+
+- Uncertainty-aware routing using entropy + margin signals
+- Avoids unnecessary RAG while improving accuracy
+- Focus: **latency, cost, reliability tradeoffs**
+
+---
+
+### Hierarchical RL (Minecraft)
+Long-horizon agent planning
+
+- Skill-based abstraction over low-level actions
+- Tech-tree guided exploration
+- Combines RL + sequence modeling
+
+---
+
+## Stack
+
+**Core:** Python, Go, Java, Rust  
+**ML:** PyTorch, Transformers, RAG, LangGraph  
+**Systems:** FastAPI, gRPC, Distributed Systems  
+**Infra:** Postgres, Redis, Kafka, Elasticsearch, Neo4j  
+**Cloud:** AWS, GCP, Docker  
+
+---
+
+## Principles
+
+- If it doesn’t reduce real-world effort, it’s noise  
+- Latency and reliability matter more than marginal accuracy  
+- Systems > models  
+- Build things people can’t easily replace  
+
+---
+
+## Reach
+
+- Email: ved29022004@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/ved-chadderwala-196529223/  
+- Portfolio: https://vedchadderwala.vercel.app  
+
+---
+
+## Note
+
+The gap isn’t better models.  
+It’s systems that can **use them correctly, at the right time, under constraints**.
+
+That’s what I’m building.

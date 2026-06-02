@@ -20,15 +20,6 @@ I’m focused on:
 
 ## Selected builds
 
-### Autonomous SRE Agent
-End-to-end incident response system for microservices
-
-- Logs + metrics + traces → **root cause → remediation plan**
-- Builds dependency graphs + runs RAG over codebase
-- Compresses ~45 min debugging loop into <1 min
-
----
-
 ### RunPaper
 Upload a research paper → get runnable code
 
@@ -58,10 +49,10 @@ Long-horizon agent planning
 
 ## Stack
 
-**Core:** Python, Go, Java, Rust  
+**Core:** Python, Go, Java  
 **ML:** PyTorch, Transformers, RAG, LangGraph  
 **Systems:** FastAPI, gRPC, Distributed Systems  
-**Infra:** Postgres, Redis, Kafka, Elasticsearch, Neo4j  
+**Infra:** Postgres, Redis, Elasticsearch  
 **Cloud:** AWS, GCP, Docker  
 
 ---
@@ -79,13 +70,5 @@ Long-horizon agent planning
 
 - Email: ved29022004@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/ved-chadderwala-196529223/  
-- Portfolio: https://vedchadderwala.vercel.app  
+- Portfolio: https://vedchadderwala.com
 
----
-
-## Note
-
-The gap isn’t better models.  
-It’s systems that can **use them correctly, at the right time, under constraints**.
-
-That’s what I’m building.
